@@ -1,6 +1,6 @@
 # QR Code Generator
 
-A simple, user-friendly web application that generates customizable QR codes. Built with Next.js, React, and TypeScript, this project allows users to easily create QR codes from any URL.
+A simple, user-friendly web application that generates customizable QR codes. Built with React, and TypeScript, this project allows users to easily create QR codes from any URL.
 
 ## Features
 
@@ -11,7 +11,6 @@ A simple, user-friendly web application that generates customizable QR codes. Bu
 
 ## Technologies Used
 
-- Next.js
 - React
 - TypeScript
 - Tailwind CSS
@@ -23,7 +22,7 @@ A simple, user-friendly web application that generates customizable QR codes. Bu
 1. Clone the repository
 2. Install dependencies with `npm install`
 3. Run the development server with `npm run dev`
-4. Open `http://localhost:3000` in your browser
+4. Open `http://localhost:5173` in your browser
 
 ## Usage
 
